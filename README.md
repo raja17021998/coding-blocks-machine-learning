@@ -55,26 +55,26 @@ The course is broadly divided in 7 categories, each of the topic is present as a
 - Building AI for Games
 
 ### Problem statements and mini-projects in the course done are: 
-Hardwork Pays Off (Regression Prediction)
-Air Quality Prediction (Multivariate Regression)
-Separating Chemicals (Logistic Regression)
-Face Recognition (OpenCV, K-Nearest Neighbours)
-Handwritten Digits Classifier
-Naive Bayes Mushroom Classification
-Movie Review Prediction (Naive Bayes, LSTM etc)
-Image Dominant Color Extraction (K-Means)
-Image Classification using SVM
-Titanic Survivor Prediction using Decision Trees
-Diabetic Patients Classification
-Non-Linear Data Separation using MLP
-Pokemon Classification using CNN, Transfer Learning
-Sentiment Analysis using MLP, LSTM
-Text/Lyrics Generation using Markov Chains
-Emoji Prediction using Transfer Learning & LSTM
-Odd One Out (Word2Vec)
-Bollywood Word Analgoies (Word Embeddings)
-Generating Cartoon Avatars using GAN's (Generative Adversial Networks)
-Reinforcement Learning based Cartpole Game Player
+- Hardwork Pays Off (Regression Prediction)
+- Air Quality Prediction (Multivariate Regression)
+- Separating Chemicals (Logistic Regression)
+- Face Recognition (OpenCV, K-Nearest Neighbours)
+- Handwritten Digits Classifier
+- Naive Bayes Mushroom Classification
+- Movie Review Prediction (Naive Bayes, LSTM etc)
+- Image Dominant Color Extraction (K-Means)
+- Image Classification using SVM
+- Titanic Survivor Prediction using Decision Trees
+- Diabetic Patients Classification
+- Non-Linear Data Separation using MLP
+- Pokemon Classification using CNN, Transfer Learning
+- Sentiment Analysis using MLP, LSTM
+- Text/Lyrics Generation using Markov Chains
+- Emoji Prediction using Transfer Learning & LSTM
+- Odd One Out (Word2Vec)
+- Bollywood Word Analgoies (Word Embeddings)
+- Generating Cartoon Avatars using GAN's (Generative Adversial Networks)
+- Reinforcement Learning based Cartpole Game Player
 
 ### Libraries, Frameworks
 - Most of the course codes are build from scratch and also following libraries are used.
