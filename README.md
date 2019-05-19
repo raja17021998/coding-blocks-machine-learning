@@ -55,8 +55,7 @@ The course is broadly divided in 7 categories, each of the topic is present as a
 - Building AI for Games
 
 ### Libraries, Frameworks
-- Most of the course codes are build from scratch but we will also teach you how to work with
-the following libraries.
+- Most of the course codes are build from scratch and also following libraries are used.
 1. Pandas (Data Handling)
 2. Matplotlib (Data Visualisation)
 3. Numpy (Maths)
