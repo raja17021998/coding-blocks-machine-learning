@@ -1,8 +1,4 @@
 
-
-# [Machine Learning Master Course Online](https://online.codingblocks.com/courses/machine-learning-course-online)
-This online Machine Learning course by Coding Blocks is one of its kind. The course comprising of over 200 recorded tutorials and 15 projects for teaching, boasts of an all-exhaustive and highly comprehensive curriculum. The Machine Learning online course starts with the essentials of Python, gradually moving towards to concepts of advanced algorithms and finally into the cores of Machine Learning. With our key focus being the live projects, we dive deeper into the fundamentals of Regression Techniques and Neural Networks enabling the students to work out optimizing solutions to the real-world problems. It is just a matter of weeks before the students actually begin building intelligent systems, working on AI algorithms and data crunching. As a part of these online Machine Learning classes, a detailed overview of the programming fundamentals and Python Basics would be covered with the students so as to make them grasp the concepts of Machine Learning quickly and effortlessly. The course is taught by [*Prateek Narang*](http://prateeknarang.com) who is famous for his interactive teaching methods, and is doing an MS in Deep Learning from IIT Delhi.
- 
 **Course Contents**
 -------------------
 The course is broadly divided in 7 categories, each of the topic is present as a section in the course.
