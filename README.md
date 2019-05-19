@@ -69,37 +69,5 @@ the following libraries.
 6. Sci-kit Learn(ML Algorithms)
 6. OpenAI Gym (Reinforcement Learning)
 
-### Pre-requisites
-- Familiar with writing Code in any programming language, Python preferred but not mandatory
-- Practical Knowledge of Data Structures, OOP's Concepts
-- Familiar with VCS like Git/Github
 
 
-### 20 Mini Projects in course!
--------------------------------
-1. Hardwork Pays Off (Regression Prediction)
-2. Air Quality Prediction (Multivariate Regression)
-3. Separating Chemicals (Logistic Regression)
-4. Face Recognition (OpenCV, K-Nearest Neighbours)
-5. Handwritten Digits Classifier
-6. Naive Bayes Mushroom Classification
-7. Movie Review Prediction (Naive Bayes, LSTM etc)
-8. Image Dominant Color Extraction (K-Means)
-9. Image Classification using SVM
-10. Titanic Survivor Prediction using Decision Trees
-11. Diabetic Patients Classification
-12. Non-Linear Data Separation using MLP
-13. Pokemon Classification using CNN, Transfer Learning
-14. Sentiment Analysis using MLP, LSTM
-15. Text/Lyrics Generation using Markov Chains
-16. Emoji Prediction using Transfer Learning & LSTM
-17. Odd One Out (Word2Vec)
-18. Bollywood Word Analgoies (Word Embeddings)
-19. Generating Cartoon Avatars using GAN's (Generative Adversial Networks)
-20. Reinforcement Learning based Cartpole Game Player
-
-
-Final Project
-----------------
-**Image Captioning**
-Generating Captions for images using CNN & LSTM on Flickr8K dataset.
