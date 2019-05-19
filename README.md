@@ -54,7 +54,7 @@ The course is broadly divided in 7 categories, each of the topic is present as a
 - Q Learning
 - Building AI for Games
 
-### Problem statements and mini-projects in the course done are: 
+### Problem statements and mini-projects done in the course are: 
 - Hardwork Pays Off (Regression Prediction)
 - Air Quality Prediction (Multivariate Regression)
 - Separating Chemicals (Logistic Regression)
